@@ -1,0 +1,6 @@
+J:\Project\FileRecursion\RecursionSolver\bin\Debug\RecursionSolver.dll
+J:\Project\FileRecursion\RecursionSolver\bin\Debug\RecursionSolver.pdb
+J:\Project\FileRecursion\RecursionSolver\obj\Debug\RecursionSolver.csprojResolveAssemblyReference.cache
+J:\Project\FileRecursion\RecursionSolver\obj\Debug\RecursionSolver.csproj.ResolveComReference.cache
+J:\Project\FileRecursion\RecursionSolver\obj\Debug\RecursionSolver.dll
+J:\Project\FileRecursion\RecursionSolver\obj\Debug\RecursionSolver.pdb

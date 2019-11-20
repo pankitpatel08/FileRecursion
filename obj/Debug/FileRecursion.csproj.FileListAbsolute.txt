@@ -1,0 +1,11 @@
+J:\Project\FileRecursion\bin\Debug\FileRecursion.exe.config
+J:\Project\FileRecursion\obj\Debug\FileRecursion.csprojResolveAssemblyReference.cache
+J:\Project\FileRecursion\obj\Debug\FileRecursion.FileDirectory.resources
+J:\Project\FileRecursion\obj\Debug\FileRecursion.Properties.Resources.resources
+J:\Project\FileRecursion\obj\Debug\FileRecursion.csproj.GenerateResource.Cache
+J:\Project\FileRecursion\bin\Debug\FileRecursion.exe
+J:\Project\FileRecursion\bin\Debug\FileRecursion.pdb
+J:\Project\FileRecursion\bin\Debug\RecursionSolver.dll
+J:\Project\FileRecursion\bin\Debug\RecursionSolver.pdb
+J:\Project\FileRecursion\obj\Debug\FileRecursion.exe
+J:\Project\FileRecursion\obj\Debug\FileRecursion.pdb

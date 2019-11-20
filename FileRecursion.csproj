@@ -80,7 +80,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RecursionSolver\RecursionSolver.csproj">
+    <ProjectReference Include="RecursionSolver\RecursionSolver.csproj">
       <Project>{bbc50039-f0fc-4e89-96f7-c2669b671641}</Project>
       <Name>RecursionSolver</Name>
     </ProjectReference>
